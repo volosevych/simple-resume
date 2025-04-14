@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "theme": "professional"
+  },
+  "basics": {
+    "name": "Anastasiia Volosevych",
+    "label": "Professional Worker",
+    "image": "https://avatars.githubusercontent.com/u/66918031?v=4",
+    "summary": "Motivated individual with experience in fast-paced environments, passionate about delivering reliable work and contributing to team goals. Strong communication and organizational skills developed through hands-on experience at Amazon and remote collaborations.",
+    "email": "anastasiiavolosevych@gmail.com",
+    "location": {
+      "city": "Saratoga Springs",
+      "countryCode": "UT"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/volosevych",
+        "username": "volosevych",
+        "network": "GitHub"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Western Governors University",
+      "url": "https://www.wgu.edu/online-it-degrees/computer-science.html",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2022-10-01",
+      "endDate": "2024-01-12",
+      "score": "3.5 GPA",
+      "courses": [
+        "Ethics in Technology",
+        "Fundamentals of Information Security",
+        "Scripting and Programming",
+        "Computer Science Project Development"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "organisation": "Amazon",
+      "position": "SLAM Operator",
+      "startDate": "2023-01-01",
+      "endDate": "2024-09-01",
+      "summary": "Ensured priority packages were routed efficiently to meet strict deadlines. Solved problems in real-time to maintain workflow and collaborated with other team members to ensure smooth operations.",
+      "highlights": [
+        "Handled time-sensitive deliveries and verified inventory accuracy.",
+        "Worked closely with team members and supervisors to resolve workflow issues.",
+        "Maintained a fast-paced work ethic and quality standards."
+      ]
+    },
+    {
+      "organisation": "Upwork",
+      "position": "Freelance Contractor",
+      "startDate": "2024-12-20",
+      "summary": "Collaborated remotely with clients on small tasks, demonstrating strong communication, time management, and organizational skills in a freelance environment.",
+      "highlights": [
+        "Managed freelance responsibilities while maintaining client satisfaction.",
+        "Delivered results within timeframes agreed upon.",
+        "Adapted quickly to various project requirements."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Kamel Greene",
+      "reference": "I LOVED working with Anastasia. We had an immediate, easy rapport. She was so accommodating, so easy to work with, so responsive, and ultimately, so insightful and helpful. A total professional. My finished website exceeded my expectations."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native Speaker"
+    }
+  ]
+}

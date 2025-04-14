@@ -1,0 +1,23 @@
+# .github/workflows/gist.yml
+name: Deploy Simple Resume Gist
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Upload resume.json to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          gist_id: 673e609c4a7aba1351b12dfd7a7d5a89
+          file_path: resume.json
+          file_type: text
+          token: ${{ secrets.TOKEN }}
